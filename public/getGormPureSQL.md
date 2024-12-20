@@ -1,5 +1,5 @@
 ---
-title: GORMで実行した生SQLを無理やり取得する方法
+title: GORMで発行したSQLを無理やり取得する方法
 tags:
   - Go
   - GORM
