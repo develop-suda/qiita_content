@@ -1,12 +1,11 @@
 ---
 title: GORMで実行した生SQLを無理やり取得する方法
 tags:
-  - 'Go'
-  - 'Golang'
-  - 'GORM'
+  - Go
+  - GORM
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-12-21T02:59:13+09:00'
+id: c520679a2663b1b6b5f1
 organization_url_name: null
 slide: false
 ignorePublish: false
