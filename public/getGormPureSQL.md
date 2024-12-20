@@ -4,7 +4,7 @@ tags:
   - Go
   - GORM
 private: false
-updated_at: '2024-12-21T02:59:13+09:00'
+updated_at: '2024-12-21T03:20:26+09:00'
 id: c520679a2663b1b6b5f1
 organization_url_name: null
 slide: false
